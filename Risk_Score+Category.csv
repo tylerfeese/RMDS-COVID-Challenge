@@ -1,0 +1,262 @@
+﻿Neighborhoods,Risk_Score ,Risk_Category
+Acton,5.191569661,Medium/High
+Adams-Normandie,11.17941069,High
+Agoura Hills,-1.929335233,Low
+Agua Dulce,6.450350861,Medium/High
+Alhambra,4.433276628,Low/Medium
+Alondra Park,1.273231203,Low
+Altadena,1.795633208,Low/Medium
+Angeles Crest,5.803351498,Medium/High
+Arcadia,4.695984039,Medium/High
+Arleta,3.024823253,Low/Medium
+Arlington Heights,-0.597461462,Low
+Artesia,6.36266166,Medium/High
+Athens,4.520805894,Low/Medium
+Atwater Village,5.353637363,Medium/High
+Avalon,8.270451445,High
+Avocado Heights,9.421828903,High
+Azusa,7.302720642,Medium/High
+Baldwin Hills/Crenshaw,-2.92862269,Low
+Baldwin Park,1.237655456,Low
+Bel-Air,0.16769512,Low
+Bell,0.015305565,Low
+Bell Gardens,0.967875452,Low
+Bellflower,2.868068679,Low/Medium
+Beverly Crest,-0.251544573,Low
+Beverly Grove,6.3180333,Medium/High
+Beverly Hills,4.273036193,Low/Medium
+Beverlywood,1.003320081,Low
+Boyle Heights,-0.316297608,Low
+Bradbury,2.058560813,Low/Medium
+Brentwood,2.11406005,Low/Medium
+Broadway-Manchester,1.245147741,Low
+Burbank,-1.241294483,Low
+Calabasas,3.541962552,Low/Medium
+Canoga Park,1.911444414,Low/Medium
+Carson,7.707664465,High
+Carthay,9.628728041,High
+Castaic,6.522514903,Medium/High
+Castaic Canyons,10.56697051,High
+Central-Alameda,2.585760171,Low/Medium
+Century City,2.160566754,Low/Medium
+Cerritos,5.321797796,Medium/High
+Charter Oak,-1.128386312,Low
+Chatsworth,4.748616281,Medium/High
+Chesterfield Square,0.204181945,Low
+Cheviot Hills,4.552375724,Low/Medium
+Chinatown,8.067491146,High
+Citrus,3.842480648,Low/Medium
+Claremont,8.678563906,High
+Commerce,0.908482287,Low
+Compton,2.971626469,Low/Medium
+Covina,6.929697145,Medium/High
+Cudahy,-1.699651803,Low
+Culver City,8.64160244,High
+Cypress Park,5.74063305,Medium/High
+Del Aire,9.503313844,High
+Del Rey,6.840053433,Medium/High
+Diamond Bar,2.883647981,Low/Medium
+Downey,8.569695203,High
+Downtown,9.918633567,High
+Duarte,5.356596574,Medium/High
+Eagle Rock,6.643128997,Medium/High
+East Compton,3.604173831,Low/Medium
+East Hollywood,4.046666036,Low/Medium
+East La Mirada,2.53931714,Low/Medium
+East Los Angeles,9.814913115,High
+East Pasadena,2.150410291,Low/Medium
+East San Gabriel,-0.40061425,Low
+Echo Park,6.716828967,Medium/High
+El Monte,7.095654082,Medium/High
+El Segundo,8.89721421,High
+El Sereno,8.857802696,High
+Elizabeth Lake,8.859367486,High
+Elysian Park,7.201769543,Medium/High
+Elysian Valley,-2.090190273,Low
+Encino,-2.343813129,Low
+Exposition Park,7.895383927,High
+Fairfax,3.576758805,Low/Medium
+Florence,-0.788916697,Low
+Florence-Firestone,11.3757816,High
+Gardena,10.72296137,High
+Glassell Park,1.010222214,Low
+Glendale,7.909848639,High
+Glendora,0.505365965,Low
+Gramercy Park,8.904862852,High
+Granada Hills,6.495474311,Medium/High
+Green Meadows,-3.051154442,Low
+Griffith Park,2.210848762,Low/Medium
+Hacienda Heights,-2.019699057,Low
+Hancock Park,2.908200863,Low/Medium
+Hansen Dam,7.581310056,Medium/High
+Harbor City,3.036633217,Low/Medium
+Harbor Gateway,0.766809279,Low
+Harvard Heights,5.03082453,Medium/High
+Harvard Park,5.916505986,Medium/High
+Hawaiian Gardens,2.822239794,Low/Medium
+Hawthorne,4.887065746,Medium/High
+Hermosa Beach,6.943824311,Medium/High
+Hidden Hills,8.390984267,High
+Highland Park,12.86218522,High
+Historic South-Central,8.461672187,High
+Hollywood,3.486114008,Low/Medium
+Hollywood Hills,1.011912118,Low
+Hollywood Hills West,-2.708351236,Low
+Huntington Park,9.571895598,High
+Hyde Park,-0.329567541,Low
+Industry,2.264525016,Low/Medium
+Inglewood,-5.180726356,Low
+Irwindale,10.44173773,High
+Jefferson Park,5.856963569,Medium/High
+Koreatown,6.38765119,Medium/High
+La Canada Flintridge,1.795288562,Low/Medium
+La Crescenta-Montrose,7.298546259,Medium/High
+La Habra Heights,4.440048767,Low/Medium
+La Mirada,7.648915411,Medium/High
+La Puente,5.357579086,Medium/High
+La Verne,-2.840731428,Low
+Ladera Heights,3.950307533,Low/Medium
+Lake Balboa,5.264320712,Medium/High
+Lake Los Angeles,0.385530244,Low
+Lake View Terrace,9.171875113,High
+Lakewood,5.553679469,Medium/High
+Lancaster,-0.603288997,Low
+Larchmont,-1.649767459,Low
+Lawndale,10.238409,High
+Leimert Park,7.574017128,Medium/High
+Lennox,5.76422013,Medium/High
+Leona Valley,10.94657633,High
+Lincoln Heights,-2.27683404,Low
+Lomita,-2.406013282,Low
+Long Beach,6.659407216,Medium/High
+Lopez/Kagel Canyons,0.344042446,Low
+Los Feliz,6.617447958,Medium/High
+Lynwood,5.288430151,Medium/High
+Malibu,-0.513654184,Low
+Manchester Square,3.285775586,Low/Medium
+Manhattan Beach,-0.83804849,Low
+Mar Vista,6.16821311,Medium/High
+Marina del Rey,-1.603619055,Low
+Mayflower Village,0.734673007,Low
+Maywood,6.063829742,Medium/High
+Mid-City,1.765845866,Low/Medium
+Mid-Wilshire,1.92980122,Low/Medium
+Mission Hills,6.875666573,Medium/High
+Monrovia,3.240713969,Low/Medium
+Montebello,-2.346879154,Low
+Montecito Heights,0.137393791,Low
+Monterey Park,2.234711707,Low/Medium
+Mount Washington,4.25359342,Low/Medium
+North Hills,1.207826012,Low
+North Hollywood,-0.022312867,Low
+North Whittier,1.032416172,Low
+Northeast Antelope Valley,-0.981996528,Low
+Northridge,3.218075372,Low/Medium
+Northwest Antelope Valley,8.781738312,High
+Northwest Palmdale,9.279316588,High
+Norwalk,10.24028658,High
+Pacific Palisades,0.463779959,Low
+Pacoima,4.727845356,Medium/High
+Palmdale,4.961970575,Medium/High
+Palms,11.32442046,High
+Palos Verdes Estates,-0.010018039,Low
+Panorama City,0.207671491,Low
+Paramount,7.224713254,Medium/High
+Pasadena,3.763952222,Low/Medium
+Pico Rivera,3.555878386,Low/Medium
+Pico-Robertson,3.811860503,Low/Medium
+Pico-Union,0.817790783,Low
+Playa del Rey,0.476192073,Low
+Playa Vista,4.821405312,Medium/High
+Pomona,6.193703003,Medium/High
+Porter Ranch,4.509510783,Low/Medium
+Quartz Hill,5.937294334,Medium/High
+Ramona,5.11737646,Medium/High
+Rancho Dominguez,8.355301481,High
+Rancho Palos Verdes,0.568829758,Low
+Rancho Park,9.784933342,High
+Redondo Beach,9.828193932,High
+Reseda Ranch,10.8152493,High
+Ridge Route,9.666289669,High
+Rolling Hills,-0.361464648,Low
+Rolling Hills Estates,8.246989999,High
+Rosemead,11.09151122,High
+Rowland Heights,8.389655651,High
+San Dimas,3.804036915,Low/Medium
+San Fernando,4.749075998,Medium/High
+San Gabriel,2.183838152,Low/Medium
+San Marino,-0.977062835,Low
+San Pasqual,1.49271421,Low/Medium
+San Pedro,6.885259571,Medium/High
+Santa Clarita,-0.87637156,Low
+Santa Fe Springs,9.419127431,High
+Santa Monica,0.106190137,Low
+Sawtelle,-2.306460039,Low
+Sepulveda Basin,3.597339561,Low/Medium
+Shadow Hills,1.250098841,Low
+Sherman Oaks,9.134420539,High
+Sierra Madre,7.243952788,Medium/High
+Signal Hill,5.251037522,Medium/High
+Silver Lake,1.693904997,Low/Medium
+South El Monte,9.614146422,High
+South Gate,1.642364056,Low/Medium
+South Park,6.317148304,Medium/High
+South Pasadena,2.940114407,Low/Medium
+South San Gabriel,3.848452945,Low/Medium
+South San Jose Hills,2.872456455,Low/Medium
+South Whittier,6.096934369,Medium/High
+Southeast Antelope Valley,5.052493572,Medium/High
+Stevenson Ranch,-1.075089363,Low
+Studio City,-1.339412879,Low
+Sun Valley,7.039603758,Medium/High
+Sunland,-0.144036742,Low
+Sylmar,7.387432569,Medium/High
+Tarzana,2.479679584,Low/Medium
+Temple City,5.134334861,Medium/High
+Toluca Lake,1.553983925,Low/Medium
+Topanga,8.237294553,High
+Torrance,13.69774803,High
+Tujunga,7.641504735,Medium/High
+Tujunga Canyons,4.897796851,Medium/High
+Unincorporated Catalina Island,4.290698697,Low/Medium
+Unincorporated Santa Monica Mountains,16.74107684,High
+Unincorporated Santa Susana Mountains,4.951458744,Medium/High
+Universal City,7.662104968,High
+University Park,11.509711,High
+Valinda,3.037978831,Low/Medium
+Valley Glen,9.846861358,High
+Valley Village,9.723800799,High
+Van Nuys,6.263333538,Medium/High
+Venice,1.33642018,Low/Medium
+Vermont Knolls,2.247188546,Low/Medium
+Vermont Square,,Low
+Vermont Vista,0.94416362,Low
+Vermont-Slauson,12.43383062,High
+Vernon,9.630855139,High
+Veterans Administration,10.29096441,High
+View Park-Windsor Hills,14.07662394,High
+Vincent,11.16932314,High
+Walnut,5.306108658,Medium/High
+Walnut Park,12.15441255,High
+Watts,4.912015151,Medium/High
+West Adams,2.968727559,Low/Medium
+West Carson,0.061876082,Low
+West Compton,12.52350735,High
+West Covina,1.445419301,Low/Medium
+West Hills,10.36204259,High
+West Hollywood,10.34882774,High
+West Los Angeles,2.220458845,Low/Medium
+West Puente Valley,10.12203805,High
+West Whittier-Los Nietos,10.27608836,High
+Westchester,9.683181024,High
+Westlake,3.069395581,Low/Medium
+Westlake Village,4.39863375,Low/Medium
+Westmont,4.173874587,Low/Medium
+Westwood,3.524181638,Low/Medium
+Whittier,3.839875224,Low/Medium
+Whittier Narrows,4.409773624,Low/Medium
+Willowbrook,7.470727306,Medium/High
+Wilmington,-2.259894299,Low
+Windsor Square,10.25262452,High
+Winnetka,9.753699416,High
+Woodland Hills,7.149238288,Medium/High
